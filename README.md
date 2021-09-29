@@ -1,4 +1,4 @@
-# **Unrestricted API POC**
+# **Unrestricted API POC** (Bug Bounty)
 
 ##Do not make changes to the html file!!!
 
