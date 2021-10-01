@@ -4,6 +4,4 @@
 
 *You can add new lines to the readme.md file for hacktoberfest contributions*
 
-change 1
-Change 2
-Change 3
+#### Make your changes Below this line
