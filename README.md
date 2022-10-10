@@ -8,7 +8,7 @@
 ###----------   .HACKTOBERFEST.  --------####
 
 ### welcome
-https://hacktoberfest.digitalocean.com/
+
 ## Details
  - The pull request must contain commits you made yourself.
  - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
